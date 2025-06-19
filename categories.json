@@ -1,7 +1,7 @@
 {
   "categories": [
     { "id": 1, "name": "Bouquets", "imageUrl": "https://github.com/Shaheen-Rizvi/SR_Blooms_Server/blob/main/images/category_bouquets.jpg" },
-    { "id": 2, "name": "Plants", "imageUrl": "file:///android_asset/images/category_plants.png" },
-    { "id": 3, "name": "Gifts", "imageUrl": "file:///android_asset/images/category_gifts.png" }
+    { "id": 2, "name": "Plants", "imageUrl": "https://github.com/Shaheen-Rizvi/SR_Blooms_Server/blob/main/images/category_plants.jpg" },
+    { "id": 3, "name": "Gifts", "imageUrl": "https://github.com/Shaheen-Rizvi/SR_Blooms_Server/blob/main/images/category_gifts.jpg" }
   ]
 }
